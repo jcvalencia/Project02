@@ -1,5 +1,5 @@
 public class Factura {
-	private String numero;
+    private String numero;
     private String descripcion;
     private int cantidad;
     private double precio;
